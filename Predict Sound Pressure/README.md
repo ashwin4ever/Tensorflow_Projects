@@ -24,7 +24,7 @@ This problem has the following **independant** variables:
 * Download the notebook and the dataset *airfoil_self_noise.dat* and run it in your local broswer.
 
 
-**Methods**
+**Methods**  
 The dataset comprises of 5 features so any dimensionaly reduction is not necessary. exploratory data analysis includes *pairplot*, *correlation matrix* and *feature trend inspection* have been performed. Multivariate Regression model is implemented using TensorFlow.
 
 
