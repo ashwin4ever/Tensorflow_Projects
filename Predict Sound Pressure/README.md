@@ -21,7 +21,7 @@ This problem has the following **independant** variables:
 * Scaled sound pressure level, in decibels. 
 
 **Running the code:**
-* Download the notebook and the dataset *airfoil_self_noise.dat* and run it your local broswer.
+* Download the notebook and the dataset *airfoil_self_noise.dat* and run it in your local broswer.
 
 
 **Methods**
