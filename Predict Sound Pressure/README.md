@@ -25,7 +25,7 @@ This problem has the following **independant** variables:
 
 
 **Methods**
-The dataset comprises of $5$ features so any dimensionaly reduction is not necessary. exploratory data analysis includes *pairplot*, *correlation matrix* and *feature trend inspection* have been performed. Multivariate Regression model is implemented using TensorFlow.
+The dataset comprises of 5 features so any dimensionaly reduction is not necessary. exploratory data analysis includes *pairplot*, *correlation matrix* and *feature trend inspection* have been performed. Multivariate Regression model is implemented using TensorFlow.
 
 
 
